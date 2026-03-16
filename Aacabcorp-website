@@ -4,7 +4,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>A&A Cab Corp. | Livery & Chauffeur Service</title>
-  <meta name="description" content="A&A Cab Corp. provides professional livery and chauffeur service across Greater Boston and Massachusetts, including airport transfers, executive SUV rides, corporate transportation, and private pickups." />
+  <meta
+    name="description"
+    content="A&A Cab Corp. provides professional livery and chauffeur service across Greater Boston and Massachusetts, including airport transfers, executive SUV rides, corporate transportation, and private pickups."
+  />
   <style>
     :root {
       --bg: #0b0b0d;
@@ -25,7 +28,7 @@
     html { scroll-behavior: smooth; }
     body {
       margin: 0;
-      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-family: Inter, Arial, Helvetica, sans-serif;
       background: var(--bg);
       color: var(--text);
       line-height: 1.55;
@@ -383,11 +386,7 @@
     }
 
     @media (max-width: 1024px) {
-      .hero-wrap,
-      .service-area,
-      .grid-4,
-      .grid-3,
-      .grid-2 {
+      .grid-4, .grid-3, .grid-2 {
         grid-template-columns: 1fr 1fr;
       }
 
@@ -439,8 +438,8 @@
   <header class="topbar">
     <div class="container nav">
       <div class="brand">
-        <div class="brand-title">A&A Cab Corp.</div>
-        <div class="brand-sub">Livery & chauffeur service across Greater Boston and Massachusetts</div>
+        <div class="brand-title">A&amp;A Cab Corp.</div>
+        <div class="brand-sub">Livery &amp; chauffeur service across Greater Boston and Massachusetts</div>
       </div>
 
       <nav class="nav-links">
@@ -459,7 +458,7 @@
           <div class="eyebrow">Private transportation • airport transfers • executive SUV rides</div>
           <h1>Professional livery and chauffeur service you can rely on.</h1>
           <p>
-            A&A Cab Corp. offers dependable airport transfers, private pickups, corporate transportation, point-to-point service,
+            A&amp;A Cab Corp. offers dependable airport transfers, private pickups, corporate transportation, point-to-point service,
             hourly rides, VIP travel, and luxury chauffeur service throughout Greater Boston and across Massachusetts.
           </p>
           <p>
@@ -507,16 +506,16 @@
         <div class="section-head">
           <div class="section-kicker">Services</div>
           <h2>Straightforward, premium transportation for every occasion</h2>
-          <p>Whether you need a one-way ride, a Logan Airport transfer, or dedicated chauffeur service for the day, A&A Cab Corp. is built for reliability and comfort.</p>
+          <p>Whether you need a one-way ride, a Logan Airport transfer, or dedicated chauffeur service for the day, A&amp;A Cab Corp. is built for reliability and comfort.</p>
         </div>
 
         <div class="grid-4">
-          <div class="card"><h3>Livery & Chauffeur Service</h3><p>Private transportation with a professional, polished client experience.</p></div>
-          <div class="card"><h3>Executive & XL SUV Rides</h3><p>Comfortable, spacious rides for business travel, families, and group pickups.</p></div>
+          <div class="card"><h3>Livery &amp; Chauffeur Service</h3><p>Private transportation with a professional, polished client experience.</p></div>
+          <div class="card"><h3>Executive &amp; XL SUV Rides</h3><p>Comfortable, spacious rides for business travel, families, and group pickups.</p></div>
           <div class="card"><h3>Luxury Chauffeur Service</h3><p>Discreet, premium transportation for clients who value comfort and professionalism.</p></div>
-          <div class="card"><h3>Airport Transfers & Private Pickups</h3><p>On-time airport transportation and smooth pickup coordination.</p></div>
+          <div class="card"><h3>Airport Transfers &amp; Private Pickups</h3><p>On-time airport transportation and smooth pickup coordination.</p></div>
           <div class="card"><h3>Corporate Travel</h3><p>Dependable transportation for meetings, executives, and business clients.</p></div>
-          <div class="card"><h3>VIP & Special Events</h3><p>Professional service for weddings, celebrations, and important occasions.</p></div>
+          <div class="card"><h3>VIP &amp; Special Events</h3><p>Professional service for weddings, celebrations, and important occasions.</p></div>
           <div class="card"><h3>Hourly Service</h3><p>Reserve a chauffeur by the hour for flexible scheduling and multiple stops.</p></div>
           <div class="card"><h3>Point-to-Point Service</h3><p>Efficient private rides from one destination to the next without hassle.</p></div>
         </div>
@@ -594,10 +593,10 @@
       <div class="container">
         <div class="cta-banner">
           <div>
-            <h3>Need a cleaner launch version?</h3>
-            <p>This file is intentionally built as a simple single-page website so it is easy to upload to GitHub and deploy on Vercel without extra setup.</p>
+            <h3>Need dependable private transportation?</h3>
+            <p>Contact A&amp;A Cab Corp. for airport rides, executive transportation, point-to-point travel, special events, and hourly chauffeur service across Massachusetts.</p>
           </div>
-          <a class="btn" href="mailto:info@aacabcorp.com">Start with this version</a>
+          <a class="btn" href="mailto:info@aacabcorp.com">Request Availability</a>
         </div>
       </div>
     </section>
@@ -605,7 +604,7 @@
 
   <footer>
     <div class="container footer-row">
-      <div>© 2026 A&A Cab Corp. All rights reserved.</div>
+      <div>© 2026 A&amp;A Cab Corp. All rights reserved.</div>
       <div>Professional livery, chauffeur, airport, and corporate transportation across Massachusetts.</div>
     </div>
   </footer>
